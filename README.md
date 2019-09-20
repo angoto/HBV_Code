@@ -1,2 +1,14 @@
 # HBV_Code
 This repository was made to share some code that I have used during the my second rotation project, which I have made reference to in the final report. 
+
+1) Clinical_Data_Hypothetical.ipynb: Jupyter Notebook that generates hypothetical clinical data to provide some idea of the data structure in the original clinical study. 
+
+2) clinical_data_hypothetical.csv: CSV file of the hypothetical clinical study dataframe created from 1). 
+
+3) DrugBank_Vocabulary_HBV.ipynb: Jupyter Notebook used to generate drug vocabulary related to HBV from DrugBank.ca (https://www.drugbank.ca/). 
+
+4) HBV_clinically_approved_DrugBank.txt: Text file containing clinically approved HBV drug from DrugBank.ca created in 3). 
+
+5) HBV_Mutations_Translation.ipynb: Jupyter Notebook that translates HBV-related genetic mutations obtained from the scientific literature into a form identical to the clinical study (i.e. amino acid and nucleotide variants). 
+
+6) XML_Parsing_PubMed_Central.ipynb: Jupyter Notebook that makes a note of the procedure that I have followed and the representative code that I have used in order to search for cooccurrence of drug and mutation in the same sentence from PubMed Central. 
