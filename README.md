@@ -13,4 +13,4 @@ This repository was made to share some code that could be used to parse PubMed C
 
 6) XML_Parsing_PubMed_Central.ipynb: Jupyter Notebook that makes a note of the procedure that I have followed and the representative code that I have used in order to search for cooccurrence of drug and mutation in the same sentence from PubMed Central. 
 
-7) AMIA_Supplementary_Information.pdf: PDF file of the supplemtary information for AMIA 2021 Annual Symposium. 
+7) AMIA_2021_Supplementary_Information.pdf: PDF file of the supplemtary information for AMIA 2021 Annual Symposium. 
