@@ -17,6 +17,6 @@ This repository was made to share some code that could be used to parse PubMed C
 
 - XML_Parsing_PubMed_Central.ipynb: Jupyter Notebook that makes a note of the procedure that I have followed and the representative code that I have used in order to search for cooccurrence of drug and mutation in the same sentence from PubMed Central. 
 
-3) SI: Directory where all the CSV files for figures/tables in the supplementary information of the manuscript can be located. 
+3) SI: Directory where files relevant to the supplementary information of the manuscript can be located (including csv files). 
 
 - HBV_Supplementary_Information.pdf: Supplementary Information for this work. 
