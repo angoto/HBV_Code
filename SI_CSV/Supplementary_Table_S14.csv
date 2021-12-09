@@ -1,0 +1,10 @@
+,Gene,Mean Number of Mutations,Position Number of Mutation Hotspots
+0,Polymerase,6.5,"F220, W501"
+1,Reverse Transcriptase,5.18,"L129, I163, S213, L217, S219, D263, Q267"
+2,PreS1,4.0,"S5, F141, N214, S219"
+3,PreS2,5.0,"R16, S100*"
+4,HBsAg,3.31,"E2, W36, K122, P127, Q129, M133, Y161, S204*, L209, S210"
+5,X,3.2,Y6
+6,PreCore,3.67,"G29, S78"
+7,Core,3.6,"P5*, T12, L60, T147"
+8,Nucleotide Variant,3.65,"20C, 34A, 37A, 47A, 120A, 202A, 389A, 470C"
