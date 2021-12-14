@@ -7,11 +7,11 @@ This repository was made to share some code that could be used to parse PubMed C
 
 - Clinical_Data_Hypothetical.ipynb: Jupyter Notebook that generates hypothetical clinical data to provide some idea of the data structure used in the original clinical study. 
 
-- clinical_data_hypothetical.csv: CSV file of the hypothetical clinical study dataframe created from 1). 
+- clinical_data_hypothetical.csv: CSV file of the hypothetical clinical study dataframe created from Clinical_Data_Hypothetical.ipynb (inside Data sub-directory). 
 
 - DrugBank_Vocabulary_HBV.ipynb: Jupyter Notebook used to generate drug vocabulary related to HBV from DrugBank.ca (https://www.drugbank.ca/) as an example.
 
-- HBV_clinically_approved_DrugBank.txt: Text file containing clinically approved HBV drug from DrugBank.ca created in 3). 
+- HBV_clinically_approved_DrugBank.txt: Text file containing clinically approved HBV drug from DrugBank.ca created in DrugBank_Vocabulary_HBV.ipynb (inside Data sub-directory). 
 
 - HBV_Mutations_Translation.ipynb: Jupyter Notebook that translates HBV-related genetic mutations obtained from the PubMed Central into a form identical to the clinical study (i.e. amino acid and nucleotide variants). 
 
